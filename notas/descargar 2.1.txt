@@ -1,0 +1,20 @@
+from main import hola_mundo
+.git
+cat
+phytron
+
+GIT////
+
+cd OneDrive
+1. Entrar al escritorio
+click derecho, propiedades, ubicación, restaruar como predeterminado
+
+git --versión
+cd Desktop
+md proyecto
+cd proyecto
+git init
+
+
+/////
+git init
